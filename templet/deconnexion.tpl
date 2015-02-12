@@ -1,0 +1,1 @@
+<h5>{$texteSmarty2}</h5>
